@@ -1,0 +1,20 @@
+.box{
+  width: 200px;
+  height: 200px;
+  background-color:rgb(71, 226, 141) ;
+  border: 2px solid rgb(211, 157, 157);
+  margin:2px 9px;
+  text-align: center;
+   
+}
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--primary-color); 
+}
+
+:root{
+  --primary-color:rgb(207, 197, 199);
+  --secondary-color:red;
+}

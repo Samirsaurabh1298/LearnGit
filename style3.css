@@ -1,0 +1,12 @@
+.container{
+  background-color: antiquewhite;
+  height: 700px;
+  width: 900px;
+  display: grid;
+}
+
+.item{
+  background-color: aqua;
+  height: 122px;
+  width: 122px;
+}

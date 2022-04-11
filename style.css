@@ -1,0 +1,20 @@
+body{
+background-color: rgb(73, 163, 121);
+}
+.container{
+  background-color: #d0dbdb;
+  
+/* padding: 90px;
+margin: 30px;
+align-items: center;
+text-align: center; */
+
+/* padding:top right bottom left; */
+padding: 6px 56px 6px 56px;
+margin: 24px 23px;
+width: 433px;
+height: auto;
+/* text-align: center; */
+box-sizing: border-box;
+ 
+}
